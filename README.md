@@ -3,7 +3,7 @@
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/HermanPlay/se2-2025-tdd.git
-    cd tdd-se2-2025
+    cd se2-2025-tdd
     ```
 
 2. **Install dependencies:**
